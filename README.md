@@ -3,6 +3,8 @@
 Grayhat pushes out a lot of open-source material every year, ranging from UI libraries, AI, and programming languages.
 This year, our focus for GSoC will be on strengthening [UniversalPython](https://github.com/UniversalPython), a movement to bring multlilingual programming as part of the Python specification (through PEP).
 
+We're going easy this year. If you can type and occasionally form thoughts, you’ll probably be fine.
+
 ## Project Ideas
 
 * [Making Language Files More Robust](#making-language-files-more-robust)

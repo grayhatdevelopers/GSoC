@@ -1,4 +1,4 @@
-# GSoC 2025 Ideas
+# Google Summer of Code 2025 Ideas
 
 Grayhat pushes out a lot of open-source material every year, ranging from UI libraries, AI, and programming languages.
 This year, our focus for GSoC will be on strengthening [UniversalPython](https://github.com/UniversalPython), a movement to bring multlilingual programming as part of the Python specification (through PEP).
@@ -72,7 +72,7 @@ Currently, UniversalPython supports only Hindi, Ukrainian, and Urdu through manu
 - Define rules and prompts for accurate translations of words.
 - Develop a translation system which utilizes the power LLM's for UniversalPython 
 
-**Difficulty:** Hard  
+**Difficulty:** Cooked (Hard)
 **Project Length:** 350 hours  
 
 **Coding Mentors:**  
@@ -101,7 +101,7 @@ The system will dynamically analyze error messages and suggest potential solutio
 - Either in-compiler "How to Solve" guidance attached to each error message with actionable steps, or update documentation to cover these errors.
 - Configurable fallback to English for troubleshooting.
 
-**Difficulty:** Hard  
+**Difficulty:** Cooked (Hard)  
 **Project Length:** 350 hours  
 
 **Coding Mentors:**  
@@ -130,7 +130,7 @@ This system would also allow developers to use translated function names, parame
 - Configurable option to toggle between translated and original function names.
 - Automation of the above, via LLMs and automation scripts
  
-**Difficulty:** Hard  
+**Difficulty:** Cooked (Hard)  
 **Project Length:** 350 hours  
 
 **Coding Mentors:**  

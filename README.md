@@ -5,6 +5,8 @@ This year, our focus for GSoC will be on strengthening [UniversalPython](https:/
 
 We're going easy this year. If you can type and occasionally form thoughts, you’ll probably be fine.
 
+Join our Discord for vibes: https://discord.gg/CD3Dh6zcfE
+
 ## Project Ideas
 
 * [Making Language Files More Robust](#making-language-files-more-robust)
